@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
-from spire.xls import *
-from spire.xls.common import *
+from spire.xls import Workbook, XlsBitmapShape
 import os
 import tempfile
 
