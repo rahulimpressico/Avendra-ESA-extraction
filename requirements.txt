@@ -1,3 +1,4 @@
 streamlit
 Spire.XLS
 pandas
+openpyxl
